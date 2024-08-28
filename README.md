@@ -26,7 +26,7 @@ Considerando o conteúdo do Bootcamp e esses parágrafos que resumem o Step Funt
 
 # Agradecimentos ❤️
 
-Estou imensamente grato por esta oportunidade de expandir meus conhecimentos. Coloco-me à disposição caso minha experiência profissional possa ser útil.
+Estou imensamente grato por esta oportunidade de expandir meus conhecimentos. Coloco-me à disposição caso minha experiência profissional e meus conhecimentos possam ser úteis.
 
 **Muito obrigado a toda a equipe da DIO, Nexa e AWS!** 🙏
 
